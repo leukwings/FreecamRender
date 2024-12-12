@@ -1,2 +1,2 @@
 # FreecamRender
-A Mod that renders chunk if you in Freecam mode.
+A Mod that renders chunks if you in Freecam mode.
